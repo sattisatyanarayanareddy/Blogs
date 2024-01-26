@@ -1,7 +1,12 @@
 # -
 A blog, short for weblog, is a frequently updated web page used for personal commentary or business content. 
+
+
 **Blog-BS001**
+
 **Blog-BS001 for create a Post Endpoint using Mongodb**
+
+
 First open Mongodb Atlas in clooud.mongodb.com
 next open **App Services** as shown in figure
 ![Screenshot 2024-01-26 200946](https://github.com/sattisatyanarayanareddy/-/assets/113776283/54507c84-0b63-4ee2-819b-feb4ae90d44c)
